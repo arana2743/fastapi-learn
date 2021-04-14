@@ -1,4 +1,4 @@
-# Learning FastAPI - for rapid building of REST APIs in Python.
+# Learning FastAPI - for rapid building of REST APIs in Python (One of the fastest way to get set and go in REST API in Python).
 
 To get started with project setup, below are the packages and command used.
 Please refer to this [link](https://fastapi.tiangolo.com/) for official FastAPI documentation
